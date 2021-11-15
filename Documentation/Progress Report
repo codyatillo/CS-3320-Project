@@ -1,0 +1,38 @@
+PROGRESS REPORT
+
+Concentration Memory Card Matching Game
+
+Group 10: Jonathan Brunssen, John Nortbert Atillo, Dylan Morales, James Robertson, Shawn Stewart, Carlos Ravago
+
+1. Scope AND Purpose
+
+Problem: The game is designed to enhance the users ability to produce repetitious memory content. The user needs a way to stimulate their short term memory capabilities.
+
+Basic Concept of App: The game will consist of a NxM (depending what looks best on screen) grid space that contains 12, 24, or 36 tiles depending on user choice. Score will be tracked by gaining a point for getting a pair correct and losing a point for an incorrect pair. Where the user's best and average score is tracked for the day and can be compared to the day prior average.
+
+Solution App will Provide: By tracking the computer generated results of the user’s response, the user can make an assessment as to how they are progressing.
+
+
+2. Individual Contribution
+
+Jonathan: Created github channel
+Dylan: Constructed Class diagram
+Carlos: Contributed card images
+
+
+3. Work Progress
+
+Sep 29th - Created github.
+November 14th - group meeting to discuss further roles and actions that need to be taken.
+
+4. Application Snapshot
+
+<Screenshots of application and functionality implemented so far>
+
+5. Remaining Work
+
+<Work to be done>
+
+6. Issues
+
+<Any issues that could interfere with you progress or project>
